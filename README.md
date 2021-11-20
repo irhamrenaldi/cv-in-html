@@ -1,0 +1,1 @@
+This is my project to create Curriculum Vitae style page with HTML & CSS.
